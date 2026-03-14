@@ -1,14 +1,14 @@
 # Bake--State
 
-Drag N Drop, Achievements map
+A Simple solution Drag N Drop depends on forms Achievements map
 
-# The Event 
+## The Event 
 
 * Guide Innovation
 
 * Source Integrity Check 
 
-## Understanding the turret strategies
+### Understanding the turret strategies
 
 * Gain cover: Utilize the environment strategically. The turret’s weak points are difficult to target and require careful planning.
 
