@@ -8,19 +8,6 @@ A Simple solution Drag N Drop depends on forms Achievements map
 
 * Source Integrity Check 
 
-### Understanding the turret strategies
-
-```jsx
-
-+ Gain cover: Utilize the environment strategically. The turret’s weak points are difficult to target and require careful planning.
-
-+ Find the right tools: A high, precision tool will help you swiftly take out the weak points.
-
-+ Defensively: Prioritize using your advanced features (such as hacking defenses) to counter its attacks.
-
-+ What it covered: In certain situations the distract allowing you to focus on crippling the turret’s main strength.
-
-```
 
 ### Understanding Shor’s and Grover’s Algorithms
 
@@ -29,7 +16,6 @@ A Simple solution Drag N Drop depends on forms Achievements map
 + Shor's algorithm can find the prime factors of large numbers much faster than the classical methods we know. What might take thousands or millions of years on a classical computer could take just a few hours or     days on a powerful quantum computer.
 
   PSIT: Imagine you're looking for a specific name in an unsorted list that has a million entries. A classic computer might have to check an average of half the entries before finding it.
-
       - Password guessing
       - Database searches
       - Brute force attacks
@@ -37,13 +23,11 @@ A Simple solution Drag N Drop depends on forms Achievements map
 
 + Grover's algorithm helps make unstructured search faster. It doesn't find the answer instantly, but it reduces the number of steps needed.
 
-  In simple terms:
-
+  Simple Terms:
       - A classical computer needs N steps
       - A quantum computer with Grover’s Algorithm needs roughly the square root of N steps
 
-  For one million possibilities:
-
+  One million possibilities:
       - Classical approach: about 500,000 checks
       - Quantum approach: about 1,000 checks
 
