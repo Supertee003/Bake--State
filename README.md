@@ -27,7 +27,7 @@ A Simple solution Drag N Drop depends on forms Achievements map
       - A classical computer needs N steps
       - A quantum computer with Grover’s Algorithm needs roughly the square root of N steps
 
-  One million possibilities:
+  One Million possibilities:
       - Classical approach: about 500,000 checks
       - Quantum approach: about 1,000 checks
 
