@@ -13,9 +13,11 @@ A Simple solution Drag N Drop depends on forms Achievements map
 
 ```jsx
 
-+ Shor's algorithm can find the prime factors of large numbers much faster than the classical methods we know. What might take thousands or millions of years on a classical computer could take just a few hours or     days on a powerful quantum computer.
++ Shor's algorithm can find the prime factors of large numbers much faster than the classical methods we know.
+  What might take thousands or millions of years on a classical computer could take just a few hours or days on a powerful quantum computer.
 
-  PSIT: Imagine you're looking for a specific name in an unsorted list that has a million entries. A classic computer might have to check an average of half the entries before finding it.
+  PSIT: Imagine you're looking for a specific name in an unsorted list that has a million entries.
+        A classic computer might have to check an average of half the entries before finding it.
       - Password guessing
       - Database searches
       - Brute force attacks
