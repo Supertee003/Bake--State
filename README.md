@@ -4,9 +4,13 @@ A Simple solution Drag N Drop depends on forms Achievements map
 
 ## The Event ω 
 
-* Guide Innovation
+* The concept of high-tech hide-and-seek
 
-* Source Integrity Check 
+* Guide Innovation Stealthy Attacks
+
+* Create Secret content is embedded in a seemingly to avoid detection
+
+* Source Integrity Check of hiding communication
 
 
 ### Understanding Shor’s and Grover’s Algorithms
